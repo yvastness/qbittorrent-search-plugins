@@ -13,8 +13,8 @@
 | 🎉 插件名称 | 🔗 网站地址 | 🔗 插件地址 | 📚 插件版本 | ⌛️ 最后更新时间
 |-------|-------|-------|-------|-------|
 | btdig  | [btdig.com](https://www.btdig.com)  | [btdig 插件](https://raw.githubusercontent.com/yvastness/qbittorrent-search-plugins/refs/heads/main/btdig.py)  | 1.0 | 2026/03/30
-| filemood  | [filemood.com](https://www.filemood.com)  | [filemood 插件](https://github.com/yvastness/qbittorrent-search-plugins/blob/main/filemood.py)  | 1.0 | 2026/03/30
-| projectjav  | [projectjav.com](https://www.projectjav.com)  | [projectjav 插件](https://github.com/yvastness/qbittorrent-search-plugins/blob/main/projectjav.py)  | 1.0 | 2026/03/30
+| filemood  | [filemood.com](https://www.filemood.com)  | [filemood 插件](https://raw.githubusercontent.com/yvastness/qbittorrent-search-plugins/refs/heads/main/filemood.py)  | 1.0 | 2026/03/30
+| projectjav  | [projectjav.com](https://www.projectjav.com)  | [projectjav 插件](https://raw.githubusercontent.com/yvastness/qbittorrent-search-plugins/refs/heads/main/projectjav.py)  | 1.0 | 2026/03/30
 
 ### 使用方法
 
