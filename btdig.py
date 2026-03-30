@@ -1,4 +1,5 @@
 # VERSION: 1.0
+# AUTHORS: yinhaoyu
 
 import urllib.parse
 import urllib.request
